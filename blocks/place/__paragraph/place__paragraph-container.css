@@ -1,0 +1,12 @@
+.place__paragraph-container {
+  width: 100%;
+  grid-area: place__paragraphs;
+  margin: 0;
+  padding: 0;
+}
+
+@media screen and (max-width: 767px) {
+  .place__paragraph-container {
+    align-self: end;
+  }
+}

@@ -1,23 +1,9 @@
-# Проект: Путешествие по России
+# **_Проект: Путешествие по России_**
 
-### Обзор
-* Интро
-* Figma
-* Картинки
-
-**Интро**
-
-Здесь будет проект о путешествии по России.
-В Фигме мы разместили макет, в котором видно, как проект должен выглядеть на самых распространённых разрешениях экранов.
-Этот проект сложнее предыдущих, постарайтесь уделить ему больше времени.
-
-**Figma**
-
-* [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
-
-**Картинки**
-
-Доставать картинки предстоит из Фигмы. Это расхожая практика, поэтому полезно потренироваться.
-Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
-
-Удачи!
+# **_My second project._**
+This project is written by adaptive design using Figma for screen resolutions: 1280, 1024, 768, 320.  
+Passing through third sprint I have learned basic concept of:  
+1. _HTML and CSS._
+2. _Grid Layout._
+3. _Adaptive design_
+4. _Deploy to Github page._
