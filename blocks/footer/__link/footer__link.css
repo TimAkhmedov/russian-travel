@@ -1,11 +1,12 @@
 .footer__link {
-  width: min-content;
+  min-width: fit-content;
   margin-right: 18px;
   padding: 0;
   color: #ffffff;
   text-decoration: none;
   font-size: 16px;
   line-height: 18px;
+  font-style: normal;
   font-weight: 400;
 }
 

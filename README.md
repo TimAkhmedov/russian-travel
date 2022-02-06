@@ -7,3 +7,5 @@ Passing through third sprint I have learned basic concept of:
 2. _Grid Layout._
 3. _Adaptive design_
 4. _Deploy to Github page._
+
+[Github page:] (https://timakhmedov.github.io/russian-travel/ "Мой проект тут!")

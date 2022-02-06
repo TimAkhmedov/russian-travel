@@ -2,8 +2,7 @@
   margin: 0;
   padding: 0;
   width: max-content;
-  height: 16px;
+  min-height: 16px;
   font-size: 14px;
   line-height: 16px;
-  font-weight: 400;
 }

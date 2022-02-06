@@ -5,7 +5,7 @@
   flex-direction: column;
   align-content: center;
   justify-content: center;
-  background-image: url(../../images/cover/cover-trains.jpg);
+  background-image: url(../../images/cover-trains.jpg);
   background-size: cover;
   background-position: center;
   padding: 0;
@@ -28,8 +28,8 @@
 
 @media screen and (max-width: 767px) {
   .cover {
-    min-height: 380px;
-    margin-top: 64px;
+    min-height: 200px;
+    margin-top: 66px;
 
   }
 } 
