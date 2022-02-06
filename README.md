@@ -6,6 +6,6 @@ Passing through third sprint I have learned basic concept of:
 1. _HTML and CSS._
 2. _Grid Layout._
 3. _Adaptive design_
-4. _Deploy to Github page._
+4. _How to deploy to Github page._
 
-[Github page:](https://timakhmedov.github.io/russian-travel/ "Мой проект тут!")
+[Github page.](https://timakhmedov.github.io/russian-travel/ "Мой проект тут!")
