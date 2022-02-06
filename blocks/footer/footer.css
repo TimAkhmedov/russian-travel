@@ -27,7 +27,6 @@
   .footer {
     flex-direction: column;
     align-items: flex-start;
-    justify-content: space-between;
     width: 186px;
     min-height: 310px;
     padding-top: 64px;
